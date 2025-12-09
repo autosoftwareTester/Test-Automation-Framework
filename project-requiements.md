@@ -32,3 +32,6 @@ Applies to all software development teams within the organization using automate
 ## 7. Compliance & Audit
 - Quarterly reviews of automation practices.
 - Documentation of exceptions and waivers.
+
+## Tools Installations
+NodeJS, Git, Playwright module/Library, Playwrigth Test (Runner) For VSCode
